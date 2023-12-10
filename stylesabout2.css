@@ -1,0 +1,86 @@
+/* stylesabout2.css */
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:  #444
+    color: #333;
+    margin: 0;
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+nav {
+    background-color: #444;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* About Section Styles */
+.about-section {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.about-section img {
+    border-radius: 10px;
+}
+
+.about-section h2 {
+    color: #333;
+}
+
+.about-section p {
+    line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Contact  */
+
+.about-section h2,
+.about-section h3,
+.about-section ,
+.about-section  {
+    color: #4CAF50;
+}
+
+/* Team Members List Styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* Media Query for Responsive Design */
+@media only screen and (max-width: 600px) {
+    nav a {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+}
