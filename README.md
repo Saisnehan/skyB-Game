@@ -5,7 +5,7 @@ SkyB-Game is a web platform for hosting online game servers and web games. It pr
 
 ✔ User registration and login
 ✔ Game server deployment and configuration 
-✔ Dashboard to manage hosted games
+✔ Dashboard to manage hosted games  
 ✔ Game analytics and usage tracking
 ✔ Secure authentication and data protection
 ✔ Community chat and forums 
