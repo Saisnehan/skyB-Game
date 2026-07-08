@@ -8,7 +8,7 @@ m
 ✔ Game analytics and usage tracking    
 ✔ Secure authentication and data protection     
 ✔ Community chat and forums 
-✔ API support for integrations   
+✔ API support for integrations    
  
 
 
