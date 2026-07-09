@@ -7,7 +7,7 @@ m
 ✔ Dashboard to manage hosted games   
 ✔ Game analytics and usage tracking        
 ✔ Secure authentication and data protection        
-✔ Community chat and forums  
+✔ Community chat and forums   
 ✔ API support for integrations        
    
  
